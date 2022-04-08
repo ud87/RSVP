@@ -69,7 +69,7 @@ button {
   font-size: 2em;
 }
 
-@media (max-width:800px) {
+@media screen and (max-width:800px) {
   #rsvp-form {
     padding-top: 40%;
   }
